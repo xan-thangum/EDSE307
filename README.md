@@ -17,9 +17,8 @@ My first thought is that my dream classroom would mitigate issues I run into whe
 
 In high school computer science, students will move around to talk with their peers and rearrange furniture to collaborate on problems and projects. Sometimes this can cause issues when there aren’t enough power outlets. Students will crowd around the available outlets, and depending on the classroom this can cause bunching and unused space. The furniture itself may almost be difficult to move.  Many students now have their own laptops and don’t use school computers as much. Standardization isn’t an issue until students create a term project. Most of the coding is done online through resources like code.org.
 
-A secondary use of the system is that it gives building owners data about their washrooms. Data is versatile and can be used in numerous ways. For instance, if a building owner or administrator wants to renovate a washroom, using the data from this app, effective changes can be made that target the concerns and necessities of regular users.
+Looking at some of the most frequent issues has given us an idea of what our classroom should look like, but the image of an ideal classroom is still fuzzy. It could help to look at photos of study spaces, classrooms, and labs to look at what’s done well and what needs to be modified. 
 
-Additionally, there is also the prospect of a secondary user in the form of an advertiser. Advertisers could potentially use the system as a platform to market their goods and services. This would be done in a standard method where advertisers, purchase software real estate for their advertisements.
 
 ### Stakeholders and Users?
 
