@@ -51,9 +51,27 @@ However, the layout of the room isn’t flexible, the chairs can be uncomfortabl
 
 ### The mockup 
 
-![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/normal%20class%20floor%20plan.png)
 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/normal%20class%20teachers%20desk%20view.png)
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/normal%20classview%201.png)
 
 This mockup would be my ideal classroom, but with coat hangers near the door and outlet extension cords hanging from the ceiling.  The chairs, tables and whiteboards have rollers to make rearranging furniture easier. The entrance to the class is at the back so late students can enter the classroom with minimal interruption. Instead of fixed lab computers, there would be laptops available to the students stored on the shelves near the teacher's desk.
+
+![Screenshot](
+![Screenshot](
+![Screenshot](
+![Screenshot](
+This is an example of how the furniture can be rearranged for a lesson requiring group work. Students can quickly move their tables into groups.
+
+
+
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
+
+Students will be able to rearrange the furniture in a way that benefits them during open work classes. The teacher is also able to move their desk. In this case, the teacher is in the centre of the room for easier access.
+
+
 
 
