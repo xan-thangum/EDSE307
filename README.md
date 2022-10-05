@@ -72,9 +72,18 @@ This is an example of how the furniture can be rearranged for a lesson requiring
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20arieal%20shot.png)
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20study%20space%20shot%201.png)
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20study%20space%20shot%202.png)
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20study%20space%20shot%203.png)
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20study%20space%20shot%204.png)
+
 Students will be able to rearrange the furniture in a way that benefits them during open work classes. The teacher is also able to move their desk. In this case, the teacher is in the centre of the room for easier access.
 
-![Screenshot](
 
 
 
