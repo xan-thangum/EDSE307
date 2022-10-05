@@ -20,7 +20,7 @@ Looking at some of the most frequent issues has given us an idea of what our cla
 
 ### Exploring learning spaces
 
-![Screenshot](open collab floor plan.png) 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
 
 
 The washroom finder app is marketable to a large variety of people as every person at some point throughout their busy day has to use the washroom. The requirement is what makes the idea so easy for people to be invested in. Many regular people would like to know what the best bathroom around is as no one ever wants to have to go in a dirty bathroom that does not feel comfortable. This is why the bathroom finder app is such a marketable product. 
