@@ -9,6 +9,7 @@ My first thought is that my dream classroom would mitigate issues I run into whe
 
 
   > **Common issues**
+
   *Students arriving late to class
   *moving desks for group work
   *Adequate numbers of power outlets 
