@@ -1,7 +1,5 @@
 # My ideal classroom
 
-###### *Team Members: Blandon T, Andrew J, Michael V, Michael Q*
-
 ## What would my dream classroom look like?
 If I were given the ability to pick any room in the school and a blank check for buying furniture, my classroom wouldn’t look like the photo above. So what would my dream classroom look like? That’s a surprisingly hard question to answer. 
 
@@ -20,7 +18,7 @@ In high school computer science, students will move around to talk with their pe
 Looking at some of the most frequent issues has given us an idea of what our classroom should look like, but the image of an ideal classroom is still fuzzy. It could help to look at photos of study spaces, classrooms, and labs to look at what’s done well and what needs to be modified. 
 
 
-### Stakeholders and Users?
+### Exploring learning spaces
 
 The washroom finder app is marketable to a large variety of people as every person at some point throughout their busy day has to use the washroom. The requirement is what makes the idea so easy for people to be invested in. Many regular people would like to know what the best bathroom around is as no one ever wants to have to go in a dirty bathroom that does not feel comfortable. This is why the bathroom finder app is such a marketable product. 
 
