@@ -43,8 +43,6 @@ The computer science labs at the University of Calgary were recently renovated. 
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/basement%203.JPG)
 
-
-
 This classroom is almost ideal. The power outlet issue is solved with hanging outlets for the round tables, and integrated outlets in the rectangular tables. The round tables are also great for group work. Another bonus is many of the chairs have rollers making it easier for students to move around. 
 
 However, the layout of the room isn’t flexible, the chairs can be uncomfortable, and the room is a multi-purpose space so it’s cluttered, but it acts as a good blueprint for my ideal class. 
