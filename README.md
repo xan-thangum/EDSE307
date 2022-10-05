@@ -1,5 +1,8 @@
 # My ideal classroom
 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/generic%20glassroom.png)
+
+
 ## What would my dream classroom look like?
 If I were given the ability to pick any room in the school and a blank check for buying furniture, my classroom wouldn’t look like the photo above. So what would my dream classroom look like? That’s a surprisingly hard question to answer. 
 
