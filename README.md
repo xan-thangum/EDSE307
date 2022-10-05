@@ -25,18 +25,25 @@ Looking at some of the most frequent issues has given us an idea of what our cla
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/comp%20sci%20labs.jpg)
 
-I spent a lot of time studying in the computer science labs. A big reason was the access to outlets and table space. When working in groups, I sat beside the people I was working with. If there wasn’t enough space we would have to find a new space that could accommodate everyone.
+I spent a lot of time studying in the computer science labs when I attended the University of Calgary. A big reason was the access to outlets and table space. When working in groups, I sat beside the people I was working with. If there wasn’t enough space we would have to find a new space that could accommodate everyone.
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/UofA%20labs%202.jpg)
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/UofA%20labs.jpg)
 
- The UofA labs are similar to the UofC labs. But they have coat racks near the back to help free up clutter. 
+ The University of Alberta computer labs are similar to the University of Calgary computer labs. But they have coat racks at the back to help free up clutter. 
 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/IMG_5361.jpg)
 
 The computer science labs at the University of Calgary were recently renovated. All tables now have power outlets and there are mobile whiteboards to help students communicate their ideas while working in groups.
 
-![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/IMG_5361.jpg)
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/basement%202.JPG)
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/basement1.JPG) 
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/basement%203.JPG)
+
+
 
 This classroom is almost ideal. The power outlet issue is solved with hanging outlets for the round tables, and integrated outlets in the rectangular tables. The round tables are also great for group work. Another bonus is many of the chairs have rollers making it easier for students to move around. 
 
