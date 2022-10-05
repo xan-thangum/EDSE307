@@ -29,12 +29,19 @@ I spent a lot of time studying in the computer science labs. A big reason was th
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/UofA%20labs%202.jpg)
 
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/UofA%20labs.jpg)
+
+ The UofA labs are similar to the UofC labs. But they have coat racks near the back to help free up clutter. 
+
+
+The computer science labs at the University of Calgary were recently renovated. All tables now have power outlets and there are mobile whiteboards to help students communicate their ideas while working in groups.
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/IMG_5361.jpg)
+
+This classroom is almost ideal. The power outlet issue is solved with hanging outlets for the round tables, and integrated outlets in the rectangular tables. The round tables are also great for group work. Another bonus is many of the chairs have rollers making it easier for students to move around. 
+
+However, the layout of the room isn’t flexible, the chairs can be uncomfortable, and the room is a multi-purpose space so it’s cluttered, but it acts as a good blueprint for my ideal class. 
+
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
-
-
-
-
-
-
 
