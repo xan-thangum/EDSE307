@@ -2,9 +2,11 @@
 
 ###### *Team Members: Blandon T, Andrew J, Michael V, Michael Q*
 
-## The Idea
+## What would my dream classroom look like?
+If I were given the ability to pick any room in the school and a blank check for buying furniture, my classroom wouldn’t look like the photo above. So what would my dream classroom look like? That’s a surprisingly hard question to answer. 
 
-Everyone uses washrooms, that’s plain enough to see. However, what is it that people seek out in a washroom? Are factors of a washroom important enough to warrant a person going out of their way to go to a washroom with preferred features? Our app aims to identify the features that people want in a washrooms and give an easy method of locating these washrooms. The scope of the application is currently targeted at just a University campus but the goal of the design implementation is that it allows for usability on a larger scale.
+My first thought is that my dream classroom would mitigate issues I run into when delivering lessons, mapping some of them out might be a good start. 
+
 
   > **Everyone uses**
   > **Washrooms.**
