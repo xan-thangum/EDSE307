@@ -49,28 +49,37 @@ This classroom is almost ideal. The power outlet issue is solved with hanging ou
 
 However, the layout of the room isn’t flexible, the chairs can be uncomfortable, and the room is a multi-purpose space so it’s cluttered, but it acts as a good blueprint for my ideal class. 
 
-### The mockup 
+## The mockup 
+
+### A standard layout
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/normal%20class%20floor%20plan.png)
+This mockup would be my ideal classroom, but with coat hangers near the door and outlet extension cords hanging from the ceiling.  The chairs, tables and whiteboards have rollers to make rearranging furniture easier. The entrance to the class is at the back so late students can enter the classroom with minimal interruption. Instead of fixed lab computers, there would be laptops available to the students stored on the shelves near the teacher's desk.
+
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/normal%20class%20teachers%20desk%20view.png)
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/normal%20classview%201.png)
 
-This mockup would be my ideal classroom, but with coat hangers near the door and outlet extension cords hanging from the ceiling.  The chairs, tables and whiteboards have rollers to make rearranging furniture easier. The entrance to the class is at the back so late students can enter the classroom with minimal interruption. Instead of fixed lab computers, there would be laptops available to the students stored on the shelves near the teacher's desk.
+
+### A layout for group work
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/group%20collab%20formation%201%201.png)
+
+This is an example of how the furniture can be rearranged for a lesson requiring group work. Students can quickly move their tables into groups.
+
+The following pictures show a 3D render of what the classroom would look like.
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/group%20collab%20formation%201%201%20teachers%20desk.png)
 
 ![Screenshot]( https://github.com/xan-thangum/EDSE307/blob/main/group%20collab%20formation%201%201%20students%20view.png)
 
-This is an example of how the furniture can be rearranged for a lesson requiring group work. Students can quickly move their tables into groups.
 
-
-
+### A layout for open work sessions
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
+
+Students will be able to rearrange the furniture in a way that benefits them during open work classes. The teacher is also able to move their desk. In this case, the teacher is in the centre of the room for easier access.
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20arieal%20shot.png)
 
@@ -82,7 +91,7 @@ This is an example of how the furniture can be rearranged for a lesson requiring
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20study%20space%20shot%204.png)
 
-Students will be able to rearrange the furniture in a way that benefits them during open work classes. The teacher is also able to move their desk. In this case, the teacher is in the centre of the room for easier access.
+
 
 
 
