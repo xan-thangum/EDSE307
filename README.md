@@ -23,7 +23,7 @@ Looking at some of the most frequent issues has given us an idea of what our cla
 
 ### Exploring learning spaces
 
-
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/comp%20sci%20labs.jpg)
 
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
