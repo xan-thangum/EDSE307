@@ -10,9 +10,9 @@ My first thought is that my dream classroom would mitigate issues I run into whe
 
   > **Common issues**
 
-  *Students arriving late to class
-  *moving desks for group work
-  *Adequate numbers of power outlets 
+  * Students arriving late to class
+  * Moving desks for group work
+  * Adequate numbers of power outlets 
 
 
 The system is meant to be used in a quick and efficient manner. If a user wants to find a bathroom with a certain feature such as a paper towel dispenser, a simple search should return nearby results that match the parameters of the users search. It is expected that the primary user of the app is someone who wants to quickly find a washroom. As such, the system is designed in a way such that it is intuitive and minimalistic in order to maintain simplicity.
