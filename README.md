@@ -64,7 +64,7 @@ This mockup would be my ideal classroom, but with coat hangers near the door and
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/group%20collab%20formation%201%201%20teachers%20desk.png)
 
 ![Screenshot]( https://github.com/xan-thangum/EDSE307/blob/main/group%20collab%20formation%201%201%20students%20view.png)
-![Screenshot](
+
 This is an example of how the furniture can be rearranged for a lesson requiring group work. Students can quickly move their tables into groups.
 
 
