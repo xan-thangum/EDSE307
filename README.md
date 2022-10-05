@@ -25,6 +25,10 @@ Looking at some of the most frequent issues has given us an idea of what our cla
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/comp%20sci%20labs.jpg)
 
+I spent a lot of time studying in the computer science labs. A big reason was the access to outlets and table space. When working in groups, I sat beside the people I was working with. If there wasn’t enough space we would have to find a new space that could accommodate everyone.
+
+![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/UofA%20labs%202.jpg)
+
 
 ![Screenshot](https://github.com/xan-thangum/EDSE307/blob/main/open%20collab%20floor%20plan.png) 
 
