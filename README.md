@@ -1,4 +1,4 @@
-# EDSE307
+# My ideal classroom
 
 ###### *Team Members: Blandon T, Andrew J, Michael V, Michael Q*
 
