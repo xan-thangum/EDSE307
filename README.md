@@ -20,6 +20,9 @@ Looking at some of the most frequent issues has given us an idea of what our cla
 
 ### Exploring learning spaces
 
+![Screenshot](open collab floorplan.png)
+
+
 The washroom finder app is marketable to a large variety of people as every person at some point throughout their busy day has to use the washroom. The requirement is what makes the idea so easy for people to be invested in. Many regular people would like to know what the best bathroom around is as no one ever wants to have to go in a dirty bathroom that does not feel comfortable. This is why the bathroom finder app is such a marketable product. 
 
 For the sake of the small scale of the project being limited to University of Calgary our main investor who would help sponsor this project would be UofC. We believe UofC would be our biggest investor as they would gain a lot of insight on what is the cleanest bathroom, what they can do to improve their low rated bathrooms and what was wrong with them in the first place so the problem can be prevented. Other potential investments and the bulk of revenue we expect after our small scale project starts to expand is ad revenue. Ads relate to the design of the system as we would have to adjust our app design to fit ads on our app and not cover any vital information which can be a huge pain if ads are an afterthought to app design. Another margin for profit is big data companies as we acquire users we will have a list of preferences for people and what is the most prefered design which would be amazing for architecture firms moving forward, thus interest in buying the information we are attempting to sell. Thus the design and template we use to acquire information has to be succinct and easy to understand. 
