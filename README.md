@@ -15,7 +15,7 @@ My first thought is that my dream classroom would mitigate issues I run into whe
   * Adequate numbers of power outlets 
 
 
-The system is meant to be used in a quick and efficient manner. If a user wants to find a bathroom with a certain feature such as a paper towel dispenser, a simple search should return nearby results that match the parameters of the users search. It is expected that the primary user of the app is someone who wants to quickly find a washroom. As such, the system is designed in a way such that it is intuitive and minimalistic in order to maintain simplicity.
+In high school computer science, students will move around to talk with their peers and rearrange furniture to collaborate on problems and projects. Sometimes this can cause issues when there aren’t enough power outlets. Students will crowd around the available outlets, and depending on the classroom this can cause bunching and unused space. The furniture itself may almost be difficult to move.  Many students now have their own laptops and don’t use school computers as much. Standardization isn’t an issue until students create a term project. Most of the coding is done online through resources like code.org.
 
 A secondary use of the system is that it gives building owners data about their washrooms. Data is versatile and can be used in numerous ways. For instance, if a building owner or administrator wants to renovate a washroom, using the data from this app, effective changes can be made that target the concerns and necessities of regular users.
 
